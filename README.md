@@ -9,7 +9,7 @@ If it's ***'No'*** then ...uh..g..good for you!
 
 Demo
 ----
-![Demo](https://raw.github.com/R3AL/SublimeTransporter/master/demo.gif)
+<p align="center"><img src="https://raw.github.com/R3AL/SublimeTransporter/master/demo.gif" width=70% height=50% /></p>
 
 Instalation
 -----------
