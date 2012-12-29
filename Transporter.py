@@ -9,8 +9,6 @@ class move_caret(sublime_plugin.WindowCommand):
         line = int(text)
         if line < 0:
             line = line - 1
-        elif line > 0:
-            line = line + 1
         if self.window.active_view():
             self.window.active_view().run_command("mv_crt", {"n": line} )
 
