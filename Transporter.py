@@ -1,4 +1,4 @@
-import sublime, sublime_plugin, ast
+import sublime, sublime_plugin
 
 class move_caret(sublime_plugin.WindowCommand):
   def run(self, scope=""):
